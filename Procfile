@@ -1,1 +1,1 @@
-worker: cd $HOME/heroku_output && ./
+worker: cd $HOME/heroku_output && ./ForYouTeelgramBotFinal
